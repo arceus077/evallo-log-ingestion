@@ -31,7 +31,7 @@ A full-stack application for ingesting, storing, and querying structured log dat
 ### 1. Clone the Repository
 ```bash
 git clone <repository-url>
-cd Evallo
+cd evallo-log-ingestion
 ```
 
 ### 2. Backend Setup
