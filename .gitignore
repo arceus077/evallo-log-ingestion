@@ -46,8 +46,6 @@ coverage/
 # nyc test coverage
 .nyc_output
 
-# Dependency directories
-jspm_packages/
 
 # Optional npm cache directory
 .npm
@@ -85,8 +83,3 @@ jspm_packages/
 
 # TernJS port file
 .tern-port
-
-# Database files
-*.db
-*.json
-logs.json 
