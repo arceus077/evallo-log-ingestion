@@ -224,23 +224,16 @@ Frontend/
 ## 🧪 Testing
 
 ### Backend Tests
-The backend includes comprehensive unit tests for:
+Unit Tests are pending and can be written using jest for:
 - Log entry validation
 - Filtering logic
 - Data type validation
 - Error handling
 
-Run tests with:
-```bash
-cd Backend
-node test.js
 ```
 
 ### Frontend Testing
-The frontend uses React's built-in testing framework:
-```bash
-cd Frontend
-npm test
+The frontend unit test suites are pending and can be written in future
 ```
 
 ## 🔧 Configuration
@@ -255,8 +248,6 @@ npm test
 
 ### Data Persistence
 The system uses a single JSON file (`logs.json`) for data storage. This file is automatically created when the first log is ingested.
-
-## 🚀 Deployment
 
 ### Development
 Both frontend and backend can be run in development mode with hot reloading:
